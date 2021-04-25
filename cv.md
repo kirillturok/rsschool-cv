@@ -1,3 +1,3 @@
-Kiryl Turok
-kirillturok1@gmail.com
+# Kiryl Turok
+[Gmail](kirillturok1@gmail.com)
 
