@@ -5,4 +5,4 @@ email: kirillturok1@gmail.com
 ### Education
 Belarusian state university of informatics and radioelectronics
 ### English
-B2
+B1-B2
